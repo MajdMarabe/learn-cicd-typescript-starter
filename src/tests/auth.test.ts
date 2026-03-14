@@ -13,7 +13,7 @@ describe("getAPIKey", () => {
       authorization: "ApiKey 12345"
     };
     const apiKey = getAPIKey(headers);
-    expect(apiKey).toBe("000");
+    expect(apiKey).toBe("12345");
   });
 
   test("", () => {
