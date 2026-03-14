@@ -1,4 +1,5 @@
 # learn-cicd-typescript-starter (Notely)
+
 ![code coverage badge](https://github.com/MajdMarabe/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg)
 
 
